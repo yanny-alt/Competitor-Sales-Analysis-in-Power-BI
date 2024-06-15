@@ -92,6 +92,6 @@ Sintec’s marketing department requested that I keep the report design and UI i
 
 For more insights and details on this project, please check out my Medium articles, connect with me on LinkedIn, and visit my portfolio website:
 
-- [Medium](https://medium.com/@yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Portfolio](https://yourportfolio.com)
+- [Medium](https://medium.com/@favour.okechukwu)
+- [LinkedIn](https://www.linkedin.com/in/favourokechukwu/)
+- [Portfolio](https://favourigwezeke.vercel.app/)
